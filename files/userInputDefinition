@@ -1,5 +1,10 @@
 import inputOptions
 
 def userInput(str, kwargs**):
-    options = getOptions(kwargs)
-    
+    exceptions = []
+    throws = []
+    strings = []
+    for argument in kwargs
+        exceptions.append(argument()[0])
+        throws.append(argument()[1])
+        strings.append(argument()[2])
