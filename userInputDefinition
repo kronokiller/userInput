@@ -1,3 +1,3 @@
 import inputOptions
 
-def userInput(str, kwargs**)
+def userInput(str, kwargs**):
